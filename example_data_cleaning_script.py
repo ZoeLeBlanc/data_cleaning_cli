@@ -53,4 +53,4 @@ if __name__ == '__main__':
         console.print("[green]Data loaded successfully[/green]")
         display_data(df, console)
 
-        df = clean_data(df, console)
+        df = clean_data(df, console, file_path)
