@@ -46,7 +46,7 @@ if __name__ == '__main__':
     console = Console()
 
     console.print("[yellow]Data Cleaning CLI Application[/yellow]")
-    file_path = "scraped_ischool_people.csv"
+    file_path = "../data/scraped_ischool_people.csv"
     df = load_data(file_path)
 
     if df is not None:

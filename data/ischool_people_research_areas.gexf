@@ -1,0 +1,1370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-15">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="long" />
+      <attribute id="1" title="description" type="string" />
+      <attribute id="2" title="url" type="string" />
+      <attribute id="3" title="variable" type="string" />
+      <attribute id="4" title="research_description" type="string" />
+      <attribute id="5" title="research_url" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Abeeha Fajar (student representative)" label="Abeeha Fajar (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Adam Rusch" label="Adam Rusch">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Allen Renear" label="Allen Renear">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/allen-renear" />
+        </attvalues>
+      </node>
+      <node id="Andrea Serna (MSLIS) (student representative) " label="Andrea Serna (MSLIS) (student representative) ">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Andy Chen (student representative)" label="Andy Chen (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Anita Say Chan" label="Anita Say Chan">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/anita-say-chan" />
+        </attvalues>
+      </node>
+      <node id="Bertram Ludäscher" label="Bertram Ludäscher">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor and Director, Center for Informatics Research in Science and Scholarship" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/bertram-ludascher" />
+        </attvalues>
+      </node>
+      <node id="Bonnie Mak" label="Bonnie Mak">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/bonnie-mak" />
+        </attvalues>
+      </node>
+      <node id="Brandon Batzloff" label="Brandon Batzloff">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Teaching Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/brandon-batzloff" />
+        </attvalues>
+      </node>
+      <node id="Carol Tilley" label="Carol Tilley">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/carol-tilley" />
+        </attvalues>
+      </node>
+      <node id="Catherine Blake" label="Catherine Blake">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor and Associate Dean for Academic Affairs" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/catherine-blake" />
+        </attvalues>
+      </node>
+      <node id="Cathy Blake " label="Cathy Blake ">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Chip Bruce" label="Chip Bruce">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor Emeritus" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/chip-bruce" />
+        </attvalues>
+      </node>
+      <node id="Chris Wiley (PhD) (student representative)" label="Chris Wiley (PhD) (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Christine Jenkins" label="Christine Jenkins">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor Emerita" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/christine-jenkins" />
+        </attvalues>
+      </node>
+      <node id="Christopher Lueg" label="Christopher Lueg">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Christopher Lueg " label="Christopher Lueg ">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Craig Willis" label="Craig Willis">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Teaching Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/craig-willis" />
+        </attvalues>
+      </node>
+      <node id="Dainy Bernstein" label="Dainy Bernstein">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Daniel Tracy" label="Daniel Tracy">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Affiliate Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/daniel-tracy" />
+        </attvalues>
+      </node>
+      <node id="Dave Dubin" label="Dave Dubin">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Dave Dubin " label="Dave Dubin ">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Dave Mussulman" label="Dave Mussulman">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="David Charles" label="David Charles">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Teaching Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/david-charles" />
+        </attvalues>
+      </node>
+      <node id="David Dubin" label="David Dubin">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Teaching Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/david-dubin" />
+        </attvalues>
+      </node>
+      <node id="DeAnza Williams" label="DeAnza Williams">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/deanza-williams" />
+        </attvalues>
+      </node>
+      <node id="Dev Wilder (student representative)" label="Dev Wilder (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Dong Wang" label="Dong Wang">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/dong-wang" />
+        </attvalues>
+      </node>
+      <node id="Elizabeth Hoiem" label="Elizabeth Hoiem">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/elizabeth-hoiem" />
+        </attvalues>
+      </node>
+      <node id="Elizabeth Wickes" label="Elizabeth Wickes">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Lecturer" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/elizabeth-wickes" />
+        </attvalues>
+      </node>
+      <node id="Emily Knox" label="Emily Knox">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/emily-knox" />
+        </attvalues>
+      </node>
+      <node id="Emily Maemura" label="Emily Maemura">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/emily-maemura" />
+        </attvalues>
+      </node>
+      <node id="Eunice E. Santos" label="Eunice E. Santos">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor and Dean" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/eunice-e-santos" />
+        </attvalues>
+      </node>
+      <node id="Frank Stinar (student representative)" label="Frank Stinar (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Halil Kilicoglu" label="Halil Kilicoglu">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/halil-kilicoglu" />
+        </attvalues>
+      </node>
+      <node id="Haohan Wang" label="Haohan Wang">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/haohan-wang" />
+        </attvalues>
+      </node>
+      <node id="Ian Brooks" label="Ian Brooks">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Research Scientist and Director, Center for Health Informatics" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/ian-brooks" />
+        </attvalues>
+      </node>
+      <node id="J. Stephen Downie" label="J. Stephen Downie">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor, Associate Dean for Research, and Co-Director of the HathiTrust Research Center" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/j-stephen-downie" />
+        </attvalues>
+      </node>
+      <node id="Jacob Jett" label="Jacob Jett">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/jacob-jett" />
+        </attvalues>
+      </node>
+      <node id="Jana Diesner" label="Jana Diesner">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor and BSIS Program Director" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/jana-diesner" />
+        </attvalues>
+      </node>
+      <node id="Janaynne Carvalho do Amaral" label="Janaynne Carvalho do Amaral">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Postdoctoral Research Associate" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/janaynne-carvalho-do-amaral" />
+        </attvalues>
+      </node>
+      <node id="Jesse Maimone (PhD) (student representative)" label="Jesse Maimone (PhD) (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Jessie Chin" label="Jessie Chin">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/jessie-chin" />
+        </attvalues>
+      </node>
+      <node id="Jiaqi Ma" label="Jiaqi Ma">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/jiaqi-ma" />
+        </attvalues>
+      </node>
+      <node id="Jill Naiman" label="Jill Naiman">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Jimi Jones" label="Jimi Jones">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Adjunct Lecturer" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/jimi-jones" />
+        </attvalues>
+      </node>
+      <node id="Jingrui He" label="Jingrui He">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor and MSIM Program Director" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/jingrui-he" />
+        </attvalues>
+      </node>
+      <node id="Jodi Schneider" label="Jodi Schneider">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/jodi-schneider" />
+        </attvalues>
+      </node>
+      <node id="John Weible" label="John Weible">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Senior Lecturer" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/john-weible" />
+        </attvalues>
+      </node>
+      <node id="JooYoung Seo" label="JooYoung Seo">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/jooyoung-seo" />
+        </attvalues>
+      </node>
+      <node id="Judith Pintar" label="Judith Pintar">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Teaching Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/judith-pintar" />
+        </attvalues>
+      </node>
+      <node id="Karen Wickett" label="Karen Wickett">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/karen-wickett" />
+        </attvalues>
+      </node>
+      <node id="Kate McDowell" label="Kate McDowell">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/kate-mcdowell" />
+        </attvalues>
+      </node>
+      <node id="Kate Williams" label="Kate Williams">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor Emerita" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/kate-williams" />
+        </attvalues>
+      </node>
+      <node id="Kathryn La Barre" label="Kathryn La Barre">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/kathryn-la-barre" />
+        </attvalues>
+      </node>
+      <node id="Katie Higley (student representative)" label="Katie Higley (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Kevin Trainor" label="Kevin Trainor">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Kevin Trainor " label="Kevin Trainor ">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Kristen Mattson" label="Kristen Mattson">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Adjunct Lecturer" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/kristen-mattson" />
+        </attvalues>
+      </node>
+      <node id="Kyrie Zhou (student representative)" label="Kyrie Zhou (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Kyungwon Koh" label="Kyungwon Koh">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor and Director of the Champaign-Urbana (CU) Community Fab Lab" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/kyungwon-koh" />
+        </attvalues>
+      </node>
+      <node id="Lauren Ochs" label="Lauren Ochs">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Liliana Serra" label="Liliana Serra">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Linda C. Smith" label="Linda C. Smith">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor Emerita, Interim Executive Associate Dean" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/linda-c-smith" />
+        </attvalues>
+      </node>
+      <node id="Lori Kendall" label="Lori Kendall">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/lori-kendall" />
+        </attvalues>
+      </node>
+      <node id="Madelyn Rose Sanfilippo" label="Madelyn Rose Sanfilippo">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/madelyn-rose-sanfilippo" />
+        </attvalues>
+      </node>
+      <node id="Manika Lamba " label="Manika Lamba ">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Maria Bonn" label="Maria Bonn">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor, MSLIS and CAS Program Director" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/maria-bonn" />
+        </attvalues>
+      </node>
+      <node id="Martin Wolske" label="Martin Wolske">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Teaching Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/martin-wolske" />
+        </attvalues>
+      </node>
+      <node id="Masooda Bashir" label="Masooda Bashir">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/masooda-bashir" />
+        </attvalues>
+      </node>
+      <node id="Matt Archer" label="Matt Archer">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Matt Turk" label="Matt Turk">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Matthew Turk" label="Matthew Turk">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/matthew-turk" />
+        </attvalues>
+      </node>
+      <node id="Meicen Sun" label="Meicen Sun">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/meicen-sun" />
+        </attvalues>
+      </node>
+      <node id="Melissa Ocepek" label="Melissa Ocepek">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/melissa-ocepek" />
+        </attvalues>
+      </node>
+      <node id="Michael Twidale" label="Michael Twidale">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor and PhD Program Director" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/michael-twidale" />
+        </attvalues>
+      </node>
+      <node id="Mike Twidale" label="Mike Twidale">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Mike Twidale                            " label="Mike Twidale                            ">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Nigel Bosch" label="Nigel Bosch">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/nigel-bosch" />
+        </attvalues>
+      </node>
+      <node id="Peter Darch" label="Peter Darch">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/peter-darch" />
+        </attvalues>
+      </node>
+      <node id="Rachel Adler" label="Rachel Adler">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/rachel-adler" />
+        </attvalues>
+      </node>
+      <node id="Rachel M. Magee" label="Rachel M. Magee">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/rachel-m-magee" />
+        </attvalues>
+      </node>
+      <node id="Renee Hendricks" label="Renee Hendricks">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Rexwhite Enakrire" label="Rexwhite Enakrire">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Postdoctoral Research Associate" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/rexwhite-enakrire" />
+        </attvalues>
+      </node>
+      <node id="Ryan Cordell" label="Ryan Cordell">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/ryan-cordell" />
+        </attvalues>
+      </node>
+      <node id="Sang Hoo Oh" label="Sang Hoo Oh">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Sara L. Schwebel" label="Sara L. Schwebel">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor and Director of the Center for Children's Books" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/sara-l-schwebel" />
+        </attvalues>
+      </node>
+      <node id="Sarah Park Dahlen" label="Sarah Park Dahlen">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/sarah-park-dahlen" />
+        </attvalues>
+      </node>
+      <node id="Sharon Comstock" label="Sharon Comstock">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Teaching Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/sharon-comstock" />
+        </attvalues>
+      </node>
+      <node id="Shrey Shah (student representative)" label="Shrey Shah (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Sophie Nikolov (student representative)" label="Sophie Nikolov (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Stephanie Posey" label="Stephanie Posey">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/stephanie-posey" />
+        </attvalues>
+      </node>
+      <node id="Ted Underwood" label="Ted Underwood">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/ted-underwood" />
+        </attvalues>
+      </node>
+      <node id="Terry L. Weech" label="Terry L. Weech">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor Emeritus" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/terry-l-weech" />
+        </attvalues>
+      </node>
+      <node id="Travis L. Wagner" label="Travis L. Wagner">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/travis-l-wagner" />
+        </attvalues>
+      </node>
+      <node id="Vetle Torvik" label="Vetle Torvik">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/vetle-torvik" />
+        </attvalues>
+      </node>
+      <node id="Victoria Antwi (student representative)" label="Victoria Antwi (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Yang Wang" label="Yang Wang">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/yang-wang" />
+        </attvalues>
+      </node>
+      <node id="Yang Zhang" label="Yang Zhang">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Teaching Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/yang-zhang" />
+        </attvalues>
+      </node>
+      <node id="Yoo-Seong Song" label="Yoo-Seong Song">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/yoo-seong-song" />
+        </attvalues>
+      </node>
+      <node id="Yuanxi Fu (PhD) (student representative)" label="Yuanxi Fu (PhD) (student representative)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="Yun Huang" label="Yun Huang">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Associate Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/yun-huang" />
+        </attvalues>
+      </node>
+      <node id="Zoe LeBlanc" label="Zoe LeBlanc">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Assistant Professor" />
+          <attvalue for="2" value="https://ischool.illinois.edu/people/zoe-leblanc" />
+        </attvalues>
+      </node>
+      <node id="AI " label="AI ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Protecting and maintaining collections and materials in archives&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/archives-and-preservation" />
+        </attvalues>
+      </node>
+      <node id="Archives and Preservation" label="Archives and Preservation">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Protecting and maintaining collections and materials in archives&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/archives-and-preservation" />
+        </attvalues>
+      </node>
+      <node id="Argumentation" label="Argumentation">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Studying the construction of scientific arguments, including the use of information, evidence, and persuasion&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/argumentation" />
+        </attvalues>
+      </node>
+      <node id="Artificial Intelligence and Machine Learning" label="Artificial Intelligence and Machine Learning">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Researching the models, methods, uses, and impact of intelligent systems design for processing data and information&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/artificial-intelligence-and-machine-learning" />
+        </attvalues>
+      </node>
+      <node id="Capricious Grading &amp; Student Conduct       " label="Capricious Grading &amp; Student Conduct       ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Protecting and maintaining collections and materials in archives&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/archives-and-preservation" />
+        </attvalues>
+      </node>
+      <node id="Community Informatics" label="Community Informatics">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Understanding how local communities and people in their everyday lives use and might use information technology, in libraries and elsewhere&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/community-informatics" />
+        </attvalues>
+      </node>
+      <node id="Computational Social Science, Social Computing" label="Computational Social Science, Social Computing">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Using computational methods to study and model social systems and user behaviors&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/computational-social-science" />
+        </attvalues>
+      </node>
+      <node id="Computing for Social Good" label="Computing for Social Good">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Understanding computing's potential for good (and harm), including the role of computing and technology in responding to social, ecological, political, and other challenges&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/computing-social-good" />
+        </attvalues>
+      </node>
+      <node id="Cultural Informatics and Heritage" label="Cultural Informatics and Heritage">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Understanding the role of information technology in preserving, transmitting, and shaping human culture and heritage&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/cultural-informatics-and-heritage" />
+        </attvalues>
+      </node>
+      <node id="Curriculum " label="Curriculum ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Researching the models, methods, uses, and impact of intelligent systems design for processing data and information&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/artificial-intelligence-and-machine-learning" />
+        </attvalues>
+      </node>
+      <node id="Data Analytics and Human Centered Data" label="Data Analytics and Human Centered Data">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Using computational methods to transform both structured and unstructured data into actionable knowledge; and to understand and enable humans to explore and gain insight from vast data sets&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/data-analytics-and-human-centered-data" />
+        </attvalues>
+      </node>
+      <node id="Data Curation" label="Data Curation">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Active and on-going management of data through its lifecycle of interest and usefulness to scholarship, science, and education&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/data-curation" />
+        </attvalues>
+      </node>
+      <node id="Design and Evaluation of Information Systems and Services" label="Design and Evaluation of Information Systems and Services">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Understanding the problems with existing information systems and services, and making them more effective and easier to use&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/design-and-evaluation-information-systems-and-services" />
+        </attvalues>
+      </node>
+      <node id="Digital Humanities" label="Digital Humanities">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Applying computing or using digital media in the humanities disciplines&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/digital-humanities" />
+        </attvalues>
+      </node>
+      <node id="Digital Libraries" label="Digital Libraries">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Studying how to most effectively store, structure, retrieve, interpret and preserve collections of digital objects to serve a particular community or communities&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/digital-libraries" />
+        </attvalues>
+      </node>
+      <node id="Diversity" label="Diversity">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Addressing challenging, but necessary, topics such as racism, privilege, power, etc., and coupling them with critical theory in an effort to develop compassionate, proactive, and culturally competent information professionals&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/diversity-and-social-justice" />
+        </attvalues>
+      </node>
+      <node id="Diversity and Social Justice" label="Diversity and Social Justice">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Addressing challenging, but necessary, topics such as racism, privilege, power, etc., and coupling them with critical theory in an effort to develop compassionate, proactive, and culturally competent information professionals&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/diversity-and-social-justice" />
+        </attvalues>
+      </node>
+      <node id="Education of Information Professionals" label="Education of Information Professionals">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Evaluating the content of curricula and the methods for educating information professionals&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/education-information-professionals" />
+        </attvalues>
+      </node>
+      <node id="Ethics and Values for Information" label="Ethics and Values for Information">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Assessing principles and standards that govern access to information&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/ethics-and-values-information" />
+        </attvalues>
+      </node>
+      <node id="Executive Committee" label="Executive Committee">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Researching the models, methods, uses, and impact of intelligent systems design for processing data and information&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/artificial-intelligence-and-machine-learning" />
+        </attvalues>
+      </node>
+      <node id="Experiential Learning" label="Experiential Learning">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Understanding how local communities and people in their everyday lives use and might use information technology, in libraries and elsewhere&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/community-informatics" />
+        </attvalues>
+      </node>
+      <node id="FATE (fairness, accountability, transparency, ethics)" label="FATE (fairness, accountability, transparency, ethics)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Researching the complex social implications of AI, machine learning, data science, large-scale experimentation, and increasing automation; and developing computational techniques that draw on the deeper context surrounding these issues from sociology, history, and science and technology studies&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/FATE" />
+        </attvalues>
+      </node>
+      <node id="Faculty Grievance " label="Faculty Grievance ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Protecting and maintaining collections and materials in archives&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/archives-and-preservation" />
+        </attvalues>
+      </node>
+      <node id="Faculty Senators" label="Faculty Senators">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Studying the construction of scientific arguments, including the use of information, evidence, and persuasion&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/argumentation" />
+        </attvalues>
+      </node>
+      <node id="History of Information" label="History of Information">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Exploring the long history of  information helps us understand the effects of information technologies, systems, and practices on society and their implications for the future&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/history-information" />
+        </attvalues>
+      </node>
+      <node id="Information Literacy" label="Information Literacy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Information literacy is an important skillset that enables individuals to locate, contextualize, evaluate, effectively use, and appropriately communicate information in a variety of different formats&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/information-literacy" />
+        </attvalues>
+      </node>
+      <node id="Information Sciences Library Liaison:" label="Information Sciences Library Liaison:">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Protecting and maintaining collections and materials in archives&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/archives-and-preservation" />
+        </attvalues>
+      </node>
+      <node id="Informetrics and Scientometrics" label="Informetrics and Scientometrics">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Studying the quantitative aspects of information and the quantitative features and characteristics of science and scientific research&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/informetrics-and-scientometrics" />
+        </attvalues>
+      </node>
+      <node id="MSIM &amp; Bioinformatics  " label="MSIM &amp; Bioinformatics  ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Studying the construction of scientific arguments, including the use of information, evidence, and persuasion&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/argumentation" />
+        </attvalues>
+      </node>
+      <node id="MSLIS &amp; CAS   " label="MSLIS &amp; CAS   ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Protecting and maintaining collections and materials in archives&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/archives-and-preservation" />
+        </attvalues>
+      </node>
+      <node id="Network Science and Network Analysis" label="Network Science and Network Analysis">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Representing, analyzing, and modeling the structure and dynamics of complex social, scientific, and technological systems as networks or graphs; and using computational tools for identifying, explaining, and understanding the patterns they contain&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/network-science-analysis" />
+        </attvalues>
+      </node>
+      <node id="PhD " label="PhD ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Protecting and maintaining collections and materials in archives&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/archives-and-preservation" />
+        </attvalues>
+      </node>
+      <node id="Research Advisory      " label="Research Advisory      ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Protecting and maintaining collections and materials in archives&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/archives-and-preservation" />
+        </attvalues>
+      </node>
+      <node id="School Librarian Licensure Program Advisory  " label="School Librarian Licensure Program Advisory  ">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Understanding how local communities and people in their everyday lives use and might use information technology, in libraries and elsewhere&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/community-informatics" />
+        </attvalues>
+      </node>
+      <node id="Semantic Computing and Technologies" label="Semantic Computing and Technologies">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Studying the structure, design, and manipulation of computer content and technologies (e.g., AI, natural language, software engineering) to better satisfy the needs and intentions of users and to create a more meaningful user experience&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/semantic-computing-and-technologies" />
+        </attvalues>
+      </node>
+      <node id="Undergraduate Programs" label="Undergraduate Programs">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="committee_title" />
+          <attvalue for="4" value="Protecting and maintaining collections and materials in archives&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/archives-and-preservation" />
+        </attvalues>
+      </node>
+      <node id="Youth Literature, Culture, and Services" label="Youth Literature, Culture, and Services">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="3" value="research_area" />
+          <attvalue for="4" value="Analyzing library and information practices, preferences, and play for children, youth, tweens, and teens&#10;" />
+          <attvalue for="5" value="https://ischool.illinois.edu/research/areas/youth-literature-culture-and-services" />
+        </attvalues>
+      </node>
+      <node id="nan" label="nan" />
+    </nodes>
+    <edges>
+      <edge source="Abeeha Fajar (student representative)" target="nan" id="0" />
+      <edge source="Abeeha Fajar (student representative)" target="Undergraduate Programs" id="1" />
+      <edge source="Adam Rusch" target="nan" id="2" />
+      <edge source="Adam Rusch" target="MSIM &amp; Bioinformatics  " id="3" />
+      <edge source="Allen Renear" target="Data Curation" id="4" />
+      <edge source="Allen Renear" target="Digital Humanities" id="5" />
+      <edge source="Allen Renear" target="nan" id="6" />
+      <edge source="Andrea Serna (MSLIS) (student representative) " target="nan" id="7" />
+      <edge source="Andrea Serna (MSLIS) (student representative) " target="Diversity" id="8" />
+      <edge source="Andy Chen (student representative)" target="nan" id="9" />
+      <edge source="Andy Chen (student representative)" target="Undergraduate Programs" id="10" />
+      <edge source="Anita Say Chan" target="Community Informatics" id="11" />
+      <edge source="Anita Say Chan" target="Computing for Social Good" id="12" />
+      <edge source="Anita Say Chan" target="Cultural Informatics and Heritage" id="13" />
+      <edge source="Anita Say Chan" target="Data Analytics and Human Centered Data" id="14" />
+      <edge source="Anita Say Chan" target="Digital Humanities" id="15" />
+      <edge source="Anita Say Chan" target="Diversity and Social Justice" id="16" />
+      <edge source="Anita Say Chan" target="Ethics and Values for Information" id="17" />
+      <edge source="Anita Say Chan" target="History of Information" id="18" />
+      <edge source="Anita Say Chan" target="Experiential Learning" id="19" />
+      <edge source="Bertram Ludäscher" target="Data Analytics and Human Centered Data" id="20" />
+      <edge source="Bertram Ludäscher" target="Data Curation" id="21" />
+      <edge source="Bertram Ludäscher" target="Design and Evaluation of Information Systems and Services" id="22" />
+      <edge source="Bertram Ludäscher" target="Executive Committee" id="23" />
+      <edge source="Bonnie Mak" target="Archives and Preservation" id="24" />
+      <edge source="Bonnie Mak" target="History of Information" id="25" />
+      <edge source="Bonnie Mak" target="Undergraduate Programs" id="26" />
+      <edge source="Brandon Batzloff" target="Computational Social Science, Social Computing" id="27" />
+      <edge source="Brandon Batzloff" target="Diversity and Social Justice" id="28" />
+      <edge source="Brandon Batzloff" target="Network Science and Network Analysis" id="29" />
+      <edge source="Brandon Batzloff" target="Undergraduate Programs" id="30" />
+      <edge source="Carol Tilley" target="Education of Information Professionals" id="31" />
+      <edge source="Carol Tilley" target="Information Literacy" id="32" />
+      <edge source="Carol Tilley" target="Youth Literature, Culture, and Services" id="33" />
+      <edge source="Carol Tilley" target="Capricious Grading &amp; Student Conduct       " id="34" />
+      <edge source="Catherine Blake" target="Artificial Intelligence and Machine Learning" id="35" />
+      <edge source="Catherine Blake" target="Data Analytics and Human Centered Data" id="36" />
+      <edge source="Catherine Blake" target="FATE (fairness, accountability, transparency, ethics)" id="37" />
+      <edge source="Catherine Blake" target="Information Literacy" id="38" />
+      <edge source="Catherine Blake" target="nan" id="39" />
+      <edge source="Cathy Blake " target="nan" id="40" />
+      <edge source="Cathy Blake " target="Executive Committee" id="41" />
+      <edge source="Cathy Blake " target="Curriculum " id="42" />
+      <edge source="Chip Bruce" target="Youth Literature, Culture, and Services" id="43" />
+      <edge source="Chip Bruce" target="nan" id="44" />
+      <edge source="Chris Wiley (PhD) (student representative)" target="nan" id="45" />
+      <edge source="Chris Wiley (PhD) (student representative)" target="Diversity" id="46" />
+      <edge source="Christine Jenkins" target="Youth Literature, Culture, and Services" id="47" />
+      <edge source="Christine Jenkins" target="nan" id="48" />
+      <edge source="Christopher Lueg" target="nan" id="49" />
+      <edge source="Christopher Lueg" target="Faculty Grievance " id="50" />
+      <edge source="Christopher Lueg " target="nan" id="51" />
+      <edge source="Christopher Lueg " target="Diversity" id="52" />
+      <edge source="Craig Willis" target="Digital Libraries" id="53" />
+      <edge source="Craig Willis" target="Experiential Learning" id="54" />
+      <edge source="Dainy Bernstein" target="nan" id="55" />
+      <edge source="Dainy Bernstein" target="MSLIS &amp; CAS   " id="56" />
+      <edge source="Daniel Tracy" target="Archives and Preservation" id="57" />
+      <edge source="Daniel Tracy" target="nan" id="58" />
+      <edge source="Dave Dubin" target="nan" id="59" />
+      <edge source="Dave Dubin" target="Undergraduate Programs" id="60" />
+      <edge source="Dave Dubin" target="Capricious Grading &amp; Student Conduct       " id="61" />
+      <edge source="Dave Dubin " target="nan" id="62" />
+      <edge source="Dave Dubin " target="Diversity" id="63" />
+      <edge source="Dave Mussulman" target="nan" id="64" />
+      <edge source="Dave Mussulman" target="Undergraduate Programs" id="65" />
+      <edge source="David Charles" target="Data Analytics and Human Centered Data" id="66" />
+      <edge source="David Charles" target="Design and Evaluation of Information Systems and Services" id="67" />
+      <edge source="David Charles" target="Education of Information Professionals" id="68" />
+      <edge source="David Charles" target="Experiential Learning" id="69" />
+      <edge source="David Dubin" target="Data Curation" id="70" />
+      <edge source="David Dubin" target="Digital Humanities" id="71" />
+      <edge source="David Dubin" target="nan" id="72" />
+      <edge source="DeAnza Williams" target="Youth Literature, Culture, and Services" id="73" />
+      <edge source="DeAnza Williams" target="nan" id="74" />
+      <edge source="Dev Wilder (student representative)" target="nan" id="75" />
+      <edge source="Dev Wilder (student representative)" target="PhD " id="76" />
+      <edge source="Dong Wang" target="Artificial Intelligence and Machine Learning" id="77" />
+      <edge source="Dong Wang" target="Community Informatics" id="78" />
+      <edge source="Dong Wang" target="Computational Social Science, Social Computing" id="79" />
+      <edge source="Dong Wang" target="Computing for Social Good" id="80" />
+      <edge source="Dong Wang" target="Data Analytics and Human Centered Data" id="81" />
+      <edge source="Dong Wang" target="Ethics and Values for Information" id="82" />
+      <edge source="Dong Wang" target="FATE (fairness, accountability, transparency, ethics)" id="83" />
+      <edge source="Dong Wang" target="Network Science and Network Analysis" id="84" />
+      <edge source="Dong Wang" target="PhD " id="85" />
+      <edge source="Elizabeth Hoiem" target="Digital Humanities" id="86" />
+      <edge source="Elizabeth Hoiem" target="Diversity and Social Justice" id="87" />
+      <edge source="Elizabeth Hoiem" target="History of Information" id="88" />
+      <edge source="Elizabeth Hoiem" target="Youth Literature, Culture, and Services" id="89" />
+      <edge source="Elizabeth Hoiem" target="MSLIS &amp; CAS   " id="90" />
+      <edge source="Elizabeth Hoiem" target="Capricious Grading &amp; Student Conduct       " id="91" />
+      <edge source="Elizabeth Wickes" target="Data Analytics and Human Centered Data" id="92" />
+      <edge source="Elizabeth Wickes" target="Data Curation" id="93" />
+      <edge source="Elizabeth Wickes" target="Digital Humanities" id="94" />
+      <edge source="Elizabeth Wickes" target="Undergraduate Programs" id="95" />
+      <edge source="Elizabeth Wickes" target="Capricious Grading &amp; Student Conduct       " id="96" />
+      <edge source="Emily Knox" target="Ethics and Values for Information" id="97" />
+      <edge source="Emily Knox" target="Executive Committee" id="98" />
+      <edge source="Emily Maemura" target="Archives and Preservation" id="99" />
+      <edge source="Emily Maemura" target="Cultural Informatics and Heritage" id="100" />
+      <edge source="Emily Maemura" target="Data Analytics and Human Centered Data" id="101" />
+      <edge source="Emily Maemura" target="Data Curation" id="102" />
+      <edge source="Emily Maemura" target="Digital Humanities" id="103" />
+      <edge source="Emily Maemura" target="Digital Libraries" id="104" />
+      <edge source="Emily Maemura" target="PhD " id="105" />
+      <edge source="Eunice E. Santos" target="Artificial Intelligence and Machine Learning" id="106" />
+      <edge source="Eunice E. Santos" target="Computational Social Science, Social Computing" id="107" />
+      <edge source="Eunice E. Santos" target="Data Analytics and Human Centered Data" id="108" />
+      <edge source="Eunice E. Santos" target="Network Science and Network Analysis" id="109" />
+      <edge source="Eunice E. Santos" target="Executive Committee" id="110" />
+      <edge source="Frank Stinar (student representative)" target="nan" id="111" />
+      <edge source="Frank Stinar (student representative)" target="PhD " id="112" />
+      <edge source="Halil Kilicoglu" target="Artificial Intelligence and Machine Learning" id="113" />
+      <edge source="Halil Kilicoglu" target="Semantic Computing and Technologies" id="114" />
+      <edge source="Halil Kilicoglu" target="AI " id="115" />
+      <edge source="Halil Kilicoglu" target="Faculty Grievance " id="116" />
+      <edge source="Haohan Wang" target="Artificial Intelligence and Machine Learning" id="117" />
+      <edge source="Haohan Wang" target="Data Analytics and Human Centered Data" id="118" />
+      <edge source="Haohan Wang" target="FATE (fairness, accountability, transparency, ethics)" id="119" />
+      <edge source="Haohan Wang" target="AI " id="120" />
+      <edge source="Ian Brooks" target="Data Analytics and Human Centered Data" id="121" />
+      <edge source="Ian Brooks" target="nan" id="122" />
+      <edge source="J. Stephen Downie" target="Cultural Informatics and Heritage" id="123" />
+      <edge source="J. Stephen Downie" target="Data Analytics and Human Centered Data" id="124" />
+      <edge source="J. Stephen Downie" target="Digital Humanities" id="125" />
+      <edge source="J. Stephen Downie" target="Digital Libraries" id="126" />
+      <edge source="J. Stephen Downie" target="Executive Committee" id="127" />
+      <edge source="J. Stephen Downie" target="PhD " id="128" />
+      <edge source="J. Stephen Downie" target="Research Advisory      " id="129" />
+      <edge source="Jacob Jett" target="Data Curation" id="130" />
+      <edge source="Jacob Jett" target="Digital Libraries" id="131" />
+      <edge source="Jacob Jett" target="nan" id="132" />
+      <edge source="Jana Diesner" target="Artificial Intelligence and Machine Learning" id="133" />
+      <edge source="Jana Diesner" target="Computational Social Science, Social Computing" id="134" />
+      <edge source="Jana Diesner" target="Computing for Social Good" id="135" />
+      <edge source="Jana Diesner" target="Data Analytics and Human Centered Data" id="136" />
+      <edge source="Jana Diesner" target="Ethics and Values for Information" id="137" />
+      <edge source="Jana Diesner" target="FATE (fairness, accountability, transparency, ethics)" id="138" />
+      <edge source="Jana Diesner" target="Informetrics and Scientometrics" id="139" />
+      <edge source="Jana Diesner" target="Network Science and Network Analysis" id="140" />
+      <edge source="Jana Diesner" target="Semantic Computing and Technologies" id="141" />
+      <edge source="Jana Diesner" target="Curriculum " id="142" />
+      <edge source="Jana Diesner" target="Undergraduate Programs" id="143" />
+      <edge source="Janaynne Carvalho do Amaral" target="Diversity and Social Justice" id="144" />
+      <edge source="Janaynne Carvalho do Amaral" target="Information Literacy" id="145" />
+      <edge source="Janaynne Carvalho do Amaral" target="MSLIS &amp; CAS   " id="146" />
+      <edge source="Janaynne Carvalho do Amaral" target="Diversity" id="147" />
+      <edge source="Jesse Maimone (PhD) (student representative)" target="nan" id="148" />
+      <edge source="Jesse Maimone (PhD) (student representative)" target="Diversity" id="149" />
+      <edge source="Jessie Chin" target="Computational Social Science, Social Computing" id="150" />
+      <edge source="Jessie Chin" target="Computing for Social Good" id="151" />
+      <edge source="Jessie Chin" target="Design and Evaluation of Information Systems and Services" id="152" />
+      <edge source="Jessie Chin" target="Information Literacy" id="153" />
+      <edge source="Jessie Chin" target="Research Advisory      " id="154" />
+      <edge source="Jessie Chin" target="Capricious Grading &amp; Student Conduct       " id="155" />
+      <edge source="Jiaqi Ma" target="Artificial Intelligence and Machine Learning" id="156" />
+      <edge source="Jiaqi Ma" target="FATE (fairness, accountability, transparency, ethics)" id="157" />
+      <edge source="Jiaqi Ma" target="Network Science and Network Analysis" id="158" />
+      <edge source="Jiaqi Ma" target="AI " id="159" />
+      <edge source="Jill Naiman" target="nan" id="160" />
+      <edge source="Jill Naiman" target="AI " id="161" />
+      <edge source="Jimi Jones" target="Archives and Preservation" id="162" />
+      <edge source="Jimi Jones" target="Digital Libraries" id="163" />
+      <edge source="Jimi Jones" target="nan" id="164" />
+      <edge source="Jingrui He" target="Artificial Intelligence and Machine Learning" id="165" />
+      <edge source="Jingrui He" target="Data Analytics and Human Centered Data" id="166" />
+      <edge source="Jingrui He" target="Curriculum " id="167" />
+      <edge source="Jingrui He" target="MSIM &amp; Bioinformatics  " id="168" />
+      <edge source="Jodi Schneider" target="Argumentation" id="169" />
+      <edge source="Jodi Schneider" target="Artificial Intelligence and Machine Learning" id="170" />
+      <edge source="Jodi Schneider" target="Computational Social Science, Social Computing" id="171" />
+      <edge source="Jodi Schneider" target="Data Analytics and Human Centered Data" id="172" />
+      <edge source="Jodi Schneider" target="Data Curation" id="173" />
+      <edge source="Jodi Schneider" target="Design and Evaluation of Information Systems and Services" id="174" />
+      <edge source="Jodi Schneider" target="Digital Libraries" id="175" />
+      <edge source="Jodi Schneider" target="Informetrics and Scientometrics" id="176" />
+      <edge source="Jodi Schneider" target="Network Science and Network Analysis" id="177" />
+      <edge source="Jodi Schneider" target="Semantic Computing and Technologies" id="178" />
+      <edge source="Jodi Schneider" target="MSIM &amp; Bioinformatics  " id="179" />
+      <edge source="Jodi Schneider" target="Faculty Senators" id="180" />
+      <edge source="John Weible" target="Design and Evaluation of Information Systems and Services" id="181" />
+      <edge source="John Weible" target="MSIM &amp; Bioinformatics  " id="182" />
+      <edge source="John Weible" target="Faculty Senators" id="183" />
+      <edge source="JooYoung Seo" target="Computational Social Science, Social Computing" id="184" />
+      <edge source="JooYoung Seo" target="Data Analytics and Human Centered Data" id="185" />
+      <edge source="JooYoung Seo" target="Design and Evaluation of Information Systems and Services" id="186" />
+      <edge source="JooYoung Seo" target="Diversity and Social Justice" id="187" />
+      <edge source="JooYoung Seo" target="PhD " id="188" />
+      <edge source="Judith Pintar" target="Archives and Preservation" id="189" />
+      <edge source="Judith Pintar" target="Artificial Intelligence and Machine Learning" id="190" />
+      <edge source="Judith Pintar" target="Community Informatics" id="191" />
+      <edge source="Judith Pintar" target="Cultural Informatics and Heritage" id="192" />
+      <edge source="Judith Pintar" target="Digital Humanities" id="193" />
+      <edge source="Judith Pintar" target="Diversity and Social Justice" id="194" />
+      <edge source="Judith Pintar" target="History of Information" id="195" />
+      <edge source="Judith Pintar" target="Capricious Grading &amp; Student Conduct       " id="196" />
+      <edge source="Karen Wickett" target="Data Curation" id="197" />
+      <edge source="Karen Wickett" target="MSLIS &amp; CAS   " id="198" />
+      <edge source="Karen Wickett" target="Faculty Senators" id="199" />
+      <edge source="Kate McDowell" target="Education of Information Professionals" id="200" />
+      <edge source="Kate McDowell" target="Youth Literature, Culture, and Services" id="201" />
+      <edge source="Kate McDowell" target="nan" id="202" />
+      <edge source="Kate Williams" target="Community Informatics" id="203" />
+      <edge source="Kate Williams" target="Computing for Social Good" id="204" />
+      <edge source="Kate Williams" target="Cultural Informatics and Heritage" id="205" />
+      <edge source="Kate Williams" target="Diversity and Social Justice" id="206" />
+      <edge source="Kate Williams" target="Ethics and Values for Information" id="207" />
+      <edge source="Kate Williams" target="History of Information" id="208" />
+      <edge source="Kate Williams" target="Network Science and Network Analysis" id="209" />
+      <edge source="Kate Williams" target="nan" id="210" />
+      <edge source="Kathryn La Barre" target="Archives and Preservation" id="211" />
+      <edge source="Kathryn La Barre" target="Community Informatics" id="212" />
+      <edge source="Kathryn La Barre" target="Cultural Informatics and Heritage" id="213" />
+      <edge source="Kathryn La Barre" target="Diversity and Social Justice" id="214" />
+      <edge source="Kathryn La Barre" target="Education of Information Professionals" id="215" />
+      <edge source="Kathryn La Barre" target="History of Information" id="216" />
+      <edge source="Kathryn La Barre" target="Faculty Grievance " id="217" />
+      <edge source="Kathryn La Barre" target="Information Sciences Library Liaison:" id="218" />
+      <edge source="Katie Higley (student representative)" target="nan" id="219" />
+      <edge source="Katie Higley (student representative)" target="MSLIS &amp; CAS   " id="220" />
+      <edge source="Kevin Trainor" target="nan" id="221" />
+      <edge source="Kevin Trainor" target="MSIM &amp; Bioinformatics  " id="222" />
+      <edge source="Kevin Trainor " target="nan" id="223" />
+      <edge source="Kevin Trainor " target="Diversity" id="224" />
+      <edge source="Kristen Mattson" target="Information Literacy" id="225" />
+      <edge source="Kristen Mattson" target="Youth Literature, Culture, and Services" id="226" />
+      <edge source="Kristen Mattson" target="nan" id="227" />
+      <edge source="Kyrie Zhou (student representative)" target="nan" id="228" />
+      <edge source="Kyrie Zhou (student representative)" target="PhD " id="229" />
+      <edge source="Kyungwon Koh" target="Community Informatics" id="230" />
+      <edge source="Kyungwon Koh" target="Education of Information Professionals" id="231" />
+      <edge source="Kyungwon Koh" target="Information Literacy" id="232" />
+      <edge source="Kyungwon Koh" target="Youth Literature, Culture, and Services" id="233" />
+      <edge source="Kyungwon Koh" target="MSLIS &amp; CAS   " id="234" />
+      <edge source="Kyungwon Koh" target="School Librarian Licensure Program Advisory  " id="235" />
+      <edge source="Lauren Ochs" target="nan" id="236" />
+      <edge source="Lauren Ochs" target="School Librarian Licensure Program Advisory  " id="237" />
+      <edge source="Liliana Serra" target="nan" id="238" />
+      <edge source="Liliana Serra" target="Diversity" id="239" />
+      <edge source="Linda C. Smith" target="Education of Information Professionals" id="240" />
+      <edge source="Linda C. Smith" target="History of Information" id="241" />
+      <edge source="Linda C. Smith" target="Executive Committee" id="242" />
+      <edge source="Linda C. Smith" target="Diversity" id="243" />
+      <edge source="Lori Kendall" target="Archives and Preservation" id="244" />
+      <edge source="Lori Kendall" target="Community Informatics" id="245" />
+      <edge source="Lori Kendall" target="Cultural Informatics and Heritage" id="246" />
+      <edge source="Lori Kendall" target="Diversity and Social Justice" id="247" />
+      <edge source="Lori Kendall" target="MSLIS &amp; CAS   " id="248" />
+      <edge source="Lori Kendall" target="Faculty Grievance " id="249" />
+      <edge source="Madelyn Rose Sanfilippo" target="Computing for Social Good" id="250" />
+      <edge source="Madelyn Rose Sanfilippo" target="Diversity and Social Justice" id="251" />
+      <edge source="Madelyn Rose Sanfilippo" target="Ethics and Values for Information" id="252" />
+      <edge source="Madelyn Rose Sanfilippo" target="PhD " id="253" />
+      <edge source="Manika Lamba " target="nan" id="254" />
+      <edge source="Manika Lamba " target="Research Advisory      " id="255" />
+      <edge source="Maria Bonn" target="Digital Humanities" id="256" />
+      <edge source="Maria Bonn" target="Education of Information Professionals" id="257" />
+      <edge source="Maria Bonn" target="Curriculum " id="258" />
+      <edge source="Maria Bonn" target="MSLIS &amp; CAS   " id="259" />
+      <edge source="Maria Bonn" target="School Librarian Licensure Program Advisory  " id="260" />
+      <edge source="Martin Wolske" target="Community Informatics" id="261" />
+      <edge source="Martin Wolske" target="Computing for Social Good" id="262" />
+      <edge source="Martin Wolske" target="Design and Evaluation of Information Systems and Services" id="263" />
+      <edge source="Martin Wolske" target="Diversity and Social Justice" id="264" />
+      <edge source="Martin Wolske" target="Education of Information Professionals" id="265" />
+      <edge source="Martin Wolske" target="Ethics and Values for Information" id="266" />
+      <edge source="Martin Wolske" target="Experiential Learning" id="267" />
+      <edge source="Masooda Bashir" target="Ethics and Values for Information" id="268" />
+      <edge source="Masooda Bashir" target="nan" id="269" />
+      <edge source="Matt Archer" target="nan" id="270" />
+      <edge source="Matt Archer" target="PhD " id="271" />
+      <edge source="Matt Turk" target="nan" id="272" />
+      <edge source="Matt Turk" target="Research Advisory      " id="273" />
+      <edge source="Matthew Turk" target="Data Analytics and Human Centered Data" id="274" />
+      <edge source="Matthew Turk" target="nan" id="275" />
+      <edge source="Meicen Sun" target="Computational Social Science, Social Computing" id="276" />
+      <edge source="Meicen Sun" target="AI " id="277" />
+      <edge source="Melissa Ocepek" target="Education of Information Professionals" id="278" />
+      <edge source="Melissa Ocepek" target="PhD " id="279" />
+      <edge source="Michael Twidale" target="Cultural Informatics and Heritage" id="280" />
+      <edge source="Michael Twidale" target="Data Analytics and Human Centered Data" id="281" />
+      <edge source="Michael Twidale" target="Design and Evaluation of Information Systems and Services" id="282" />
+      <edge source="Michael Twidale" target="Digital Libraries" id="283" />
+      <edge source="Michael Twidale" target="Information Literacy" id="284" />
+      <edge source="Michael Twidale" target="nan" id="285" />
+      <edge source="Mike Twidale" target="nan" id="286" />
+      <edge source="Mike Twidale" target="Executive Committee" id="287" />
+      <edge source="Mike Twidale" target="Curriculum " id="288" />
+      <edge source="Mike Twidale                            " target="nan" id="289" />
+      <edge source="Mike Twidale                            " target="PhD " id="290" />
+      <edge source="Nigel Bosch" target="Artificial Intelligence and Machine Learning" id="291" />
+      <edge source="Nigel Bosch" target="Data Analytics and Human Centered Data" id="292" />
+      <edge source="Nigel Bosch" target="FATE (fairness, accountability, transparency, ethics)" id="293" />
+      <edge source="Nigel Bosch" target="AI " id="294" />
+      <edge source="Peter Darch" target="Data Curation" id="295" />
+      <edge source="Peter Darch" target="Digital Libraries" id="296" />
+      <edge source="Peter Darch" target="Ethics and Values for Information" id="297" />
+      <edge source="Peter Darch" target="Undergraduate Programs" id="298" />
+      <edge source="Peter Darch" target="Faculty Senators" id="299" />
+      <edge source="Rachel Adler" target="Computing for Social Good" id="300" />
+      <edge source="Rachel Adler" target="Design and Evaluation of Information Systems and Services" id="301" />
+      <edge source="Rachel Adler" target="Diversity and Social Justice" id="302" />
+      <edge source="Rachel Adler" target="Education of Information Professionals" id="303" />
+      <edge source="Rachel Adler" target="PhD " id="304" />
+      <edge source="Rachel M. Magee" target="Design and Evaluation of Information Systems and Services" id="305" />
+      <edge source="Rachel M. Magee" target="Diversity and Social Justice" id="306" />
+      <edge source="Rachel M. Magee" target="Information Literacy" id="307" />
+      <edge source="Rachel M. Magee" target="Youth Literature, Culture, and Services" id="308" />
+      <edge source="Rachel M. Magee" target="Experiential Learning" id="309" />
+      <edge source="Rachel M. Magee" target="School Librarian Licensure Program Advisory  " id="310" />
+      <edge source="Renee Hendricks" target="nan" id="311" />
+      <edge source="Renee Hendricks" target="MSIM &amp; Bioinformatics  " id="312" />
+      <edge source="Rexwhite Enakrire" target="Design and Evaluation of Information Systems and Services" id="313" />
+      <edge source="Rexwhite Enakrire" target="Informetrics and Scientometrics" id="314" />
+      <edge source="Rexwhite Enakrire" target="Experiential Learning" id="315" />
+      <edge source="Ryan Cordell" target="Archives and Preservation" id="316" />
+      <edge source="Ryan Cordell" target="Artificial Intelligence and Machine Learning" id="317" />
+      <edge source="Ryan Cordell" target="Cultural Informatics and Heritage" id="318" />
+      <edge source="Ryan Cordell" target="Digital Humanities" id="319" />
+      <edge source="Ryan Cordell" target="Digital Libraries" id="320" />
+      <edge source="Ryan Cordell" target="History of Information" id="321" />
+      <edge source="Ryan Cordell" target="Network Science and Network Analysis" id="322" />
+      <edge source="Ryan Cordell" target="Research Advisory      " id="323" />
+      <edge source="Sang Hoo Oh" target="nan" id="324" />
+      <edge source="Sang Hoo Oh" target="AI " id="325" />
+      <edge source="Sara L. Schwebel" target="Digital Humanities" id="326" />
+      <edge source="Sara L. Schwebel" target="Diversity and Social Justice" id="327" />
+      <edge source="Sara L. Schwebel" target="History of Information" id="328" />
+      <edge source="Sara L. Schwebel" target="Information Literacy" id="329" />
+      <edge source="Sara L. Schwebel" target="Youth Literature, Culture, and Services" id="330" />
+      <edge source="Sara L. Schwebel" target="Executive Committee" id="331" />
+      <edge source="Sarah Park Dahlen" target="Diversity and Social Justice" id="332" />
+      <edge source="Sarah Park Dahlen" target="Youth Literature, Culture, and Services" id="333" />
+      <edge source="Sarah Park Dahlen" target="Research Advisory      " id="334" />
+      <edge source="Sarah Park Dahlen" target="School Librarian Licensure Program Advisory  " id="335" />
+      <edge source="Sharon Comstock" target="Community Informatics" id="336" />
+      <edge source="Sharon Comstock" target="MSLIS &amp; CAS   " id="337" />
+      <edge source="Sharon Comstock" target="Experiential Learning" id="338" />
+      <edge source="Sharon Comstock" target="School Librarian Licensure Program Advisory  " id="339" />
+      <edge source="Shrey Shah (student representative)" target="nan" id="340" />
+      <edge source="Shrey Shah (student representative)" target="MSIM &amp; Bioinformatics  " id="341" />
+      <edge source="Sophie Nikolov (student representative)" target="nan" id="342" />
+      <edge source="Sophie Nikolov (student representative)" target="MSIM &amp; Bioinformatics  " id="343" />
+      <edge source="Stephanie Posey" target="Youth Literature, Culture, and Services" id="344" />
+      <edge source="Stephanie Posey" target="nan" id="345" />
+      <edge source="Ted Underwood" target="Artificial Intelligence and Machine Learning" id="346" />
+      <edge source="Ted Underwood" target="Computational Social Science, Social Computing" id="347" />
+      <edge source="Ted Underwood" target="Data Analytics and Human Centered Data" id="348" />
+      <edge source="Ted Underwood" target="Digital Humanities" id="349" />
+      <edge source="Ted Underwood" target="Executive Committee" id="350" />
+      <edge source="Terry L. Weech" target="Education of Information Professionals" id="351" />
+      <edge source="Terry L. Weech" target="Ethics and Values for Information" id="352" />
+      <edge source="Terry L. Weech" target="nan" id="353" />
+      <edge source="Travis L. Wagner" target="Archives and Preservation" id="354" />
+      <edge source="Travis L. Wagner" target="Community Informatics" id="355" />
+      <edge source="Travis L. Wagner" target="Cultural Informatics and Heritage" id="356" />
+      <edge source="Travis L. Wagner" target="Diversity and Social Justice" id="357" />
+      <edge source="Travis L. Wagner" target="MSLIS &amp; CAS   " id="358" />
+      <edge source="Vetle Torvik" target="Data Analytics and Human Centered Data" id="359" />
+      <edge source="Vetle Torvik" target="Data Curation" id="360" />
+      <edge source="Vetle Torvik" target="Informetrics and Scientometrics" id="361" />
+      <edge source="Vetle Torvik" target="PhD " id="362" />
+      <edge source="Vetle Torvik" target="Faculty Grievance " id="363" />
+      <edge source="Vetle Torvik" target="Faculty Senators" id="364" />
+      <edge source="Victoria Antwi (student representative)" target="nan" id="365" />
+      <edge source="Victoria Antwi (student representative)" target="MSLIS &amp; CAS   " id="366" />
+      <edge source="Yang Wang" target="Artificial Intelligence and Machine Learning" id="367" />
+      <edge source="Yang Wang" target="Computational Social Science, Social Computing" id="368" />
+      <edge source="Yang Wang" target="Computing for Social Good" id="369" />
+      <edge source="Yang Wang" target="Diversity and Social Justice" id="370" />
+      <edge source="Yang Wang" target="Ethics and Values for Information" id="371" />
+      <edge source="Yang Wang" target="FATE (fairness, accountability, transparency, ethics)" id="372" />
+      <edge source="Yang Wang" target="MSIM &amp; Bioinformatics  " id="373" />
+      <edge source="Yang Zhang" target="Artificial Intelligence and Machine Learning" id="374" />
+      <edge source="Yang Zhang" target="Computational Social Science, Social Computing" id="375" />
+      <edge source="Yang Zhang" target="Computing for Social Good" id="376" />
+      <edge source="Yang Zhang" target="FATE (fairness, accountability, transparency, ethics)" id="377" />
+      <edge source="Yang Zhang" target="MSIM &amp; Bioinformatics  " id="378" />
+      <edge source="Yoo-Seong Song" target="Education of Information Professionals" id="379" />
+      <edge source="Yoo-Seong Song" target="Experiential Learning" id="380" />
+      <edge source="Yuanxi Fu (PhD) (student representative)" target="nan" id="381" />
+      <edge source="Yuanxi Fu (PhD) (student representative)" target="Diversity" id="382" />
+      <edge source="Yun Huang" target="Community Informatics" id="383" />
+      <edge source="Yun Huang" target="Computational Social Science, Social Computing" id="384" />
+      <edge source="Yun Huang" target="Computing for Social Good" id="385" />
+      <edge source="Yun Huang" target="Undergraduate Programs" id="386" />
+      <edge source="Yun Huang" target="AI " id="387" />
+      <edge source="Zoe LeBlanc" target="Archives and Preservation" id="388" />
+      <edge source="Zoe LeBlanc" target="Artificial Intelligence and Machine Learning" id="389" />
+      <edge source="Zoe LeBlanc" target="Computational Social Science, Social Computing" id="390" />
+      <edge source="Zoe LeBlanc" target="Data Analytics and Human Centered Data" id="391" />
+      <edge source="Zoe LeBlanc" target="Data Curation" id="392" />
+      <edge source="Zoe LeBlanc" target="Digital Humanities" id="393" />
+      <edge source="Zoe LeBlanc" target="Digital Libraries" id="394" />
+      <edge source="Zoe LeBlanc" target="Diversity and Social Justice" id="395" />
+      <edge source="Zoe LeBlanc" target="History of Information" id="396" />
+      <edge source="Zoe LeBlanc" target="AI " id="397" />
+    </edges>
+  </graph>
+</gexf>
