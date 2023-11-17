@@ -25,7 +25,7 @@ def confirm_name_and_member(df, console, output_path):
     for index, row in df.iterrows():
         if row['name'] != row['committee_member']:
             console.print(f"[yellow]Name and Committee Member do not match for record {index}[/yellow]")
-            console.print(f"Name: {row['name']}, Committee Member: {row['committee_member']}")
+            console.print(f"Name: {row['name']}, Committee Member: {row['committee_member']}, url {row['url']}")
             if Confirm.ask("Do you want to correct this?"):
                 corrected_name = Prompt.ask("Enter the correct name")
                 df.at[index, 'name'] = corrected_name
@@ -36,7 +36,7 @@ def confirm_name_and_member(df, console, output_path):
 def add_research_areas(df, console, output_path):
     """ Add additional research areas """
     for index, row in df.iterrows():
-        console.print(f"Current Research Area for {row['name']}: {row['research_area']}")
+        console.print(f"Current Research Area for {row['name']}: {row['research_area']}, url {row['research_url']}")
         if Confirm.ask("Do you want to add more research areas?"):
             additional_areas = Prompt.ask("Enter additional research areas, separated by commas")
             df.at[index, 'research_area'] += ", " + additional_areas
